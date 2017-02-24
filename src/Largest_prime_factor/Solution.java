@@ -1,6 +1,5 @@
 package Largest_prime_factor;
 
-import java.math.BigInteger;
 import java.util.ArrayList;
 
 /**
@@ -20,7 +19,7 @@ public class Solution {
         return true;
     }
     public static void main(String[] args) {
-        ArrayList<Integer> PrimeFactors = new ArrayList();
+        ArrayList<Integer> PrimeFactors = new ArrayList<Integer>();
         long number = 600851475143L;
         for (int i = 2; i <= number; i++) {
             if (Prime(i)) {  // Проверка на простое число
