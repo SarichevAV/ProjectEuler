@@ -1,4 +1,4 @@
-package Largest_prime_factor;
+package Problem_1;
 
 import java.util.ArrayList;
 

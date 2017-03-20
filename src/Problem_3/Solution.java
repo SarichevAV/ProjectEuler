@@ -1,4 +1,4 @@
-package Multiples_of_3_and_5;
+package Problem_3;
 
 /**
  * Created by andrej on 23.02.17.
